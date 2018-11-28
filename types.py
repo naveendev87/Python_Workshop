@@ -9,3 +9,5 @@ y=10
 print('y is {}'.format(y))
 print(type(y))
 
+z= x+y
+print(z)
